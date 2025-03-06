@@ -4,7 +4,7 @@ Basically you put your U:L:P .txt files into uploads and the Python code will ta
 
 # IMAGES
 ![image](https://github.com/user-attachments/assets/e1de82e9-b436-45fe-a5bd-3b3c4e424902)
-![image](https://github.com/user-attachments/assets/8371a4cf-2dd0-4f2c-a000-b1fe6f10d891)
+![image](https://github.com/user-attachments/assets/d9bec950-b7b0-4eea-8f31-5072392d9209)
 
 # SETUP 
 
