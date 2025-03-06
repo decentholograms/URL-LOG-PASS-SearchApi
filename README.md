@@ -13,7 +13,7 @@ Basically you put your U:L:P .txt files into uploads and the Python code will ta
   - 2- pip install -r requirements.txt
   - 3- After the packages are installed in folder uploads put the U:L:P Logs in .txt.
   - 4- Then go back to cmd in the folder and run `python app.py`.
-  - 5- Finally in the browser go to http://127.0.0.1:8080/search?filter=`YOUR_QUERY`
+  - 5- Finally in the browser go to `http://127.0.0.1:8080/search?filter=YOUR_QUERY`
     - Example: http://127.0.0.1:8080/search?filter=sso.crunchyroll.com
 
 # IMPORTANT
