@@ -12,10 +12,11 @@ Basically you put your U:L:P .txt files into uploads and the Python code will ta
   - 1- Open cmd and go to the project folder using CD on windows or linux and run the following command.
   - 2- pip install -r requirements.txt
   - 3- After the packages are installed in folder uploads put the U:L:P Logs in .txt.
-  - 4- Then go back to cmd in the folder and run `python app.py`.
+  - 4- Then go back to cmd in the folder and run `python app.py`
   - 5- Finally in the browser go to `http://127.0.0.1:8080/search?filter=YOUR_QUERY`
     - Example: http://127.0.0.1:8080/search?filter=sso.crunchyroll.com
 
 # IMPORTANT
 
+- If you don't have url:log:pass. I recommend you get it from: https://t.me/+XBLR75nsfIQ0ZGU0 (FREE).
 - It was made in order to see the impact of leaking information that can be visible to anyone, the owner is not responsible for misuse.
